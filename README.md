@@ -1,4 +1,4 @@
-# Hi, I'm Leonardo�
+# Hi, I'm Leonardo
 
 
 
