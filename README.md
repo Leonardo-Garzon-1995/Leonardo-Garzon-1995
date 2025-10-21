@@ -1,8 +1,7 @@
 # Hi, I'm Leonardo
 
-
-
-<!-- Top language (manually added) -->
+<div>
+  <!-- Top language (manually added) -->
 ![Top Language: JavaScript](https://img.shields.io/badge/Top%20Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <!-- Badges -->
@@ -18,3 +17,7 @@
 <!-- Streak/Activity graph -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Garzon-1995&theme=dark)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Leonardo-Garzon-1995&theme=github)
+
+  
+</div>
+
