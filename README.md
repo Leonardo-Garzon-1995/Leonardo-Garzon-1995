@@ -41,6 +41,9 @@
 
 <img src="https://github.com/Leonardo-Garzon-1995/Leonardo-Garzon-1995/blob/main/my%20octocat.png" width="300"/>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Garzon-1995)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 
 
