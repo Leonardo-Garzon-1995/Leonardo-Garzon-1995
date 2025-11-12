@@ -6,7 +6,7 @@
 ![Top Language: JavaScript](https://img.shields.io/badge/Top%20Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <!-- Badges -->
-![Followers](https://img.shields.io/github/followers/Leonardo-Garzon-1995?label=Followers&style=social)
+![Followers](https://img.shields.io/github/followers/Leonardo-Garzon-1995)
 ![Stars](https://img.shields.io/github/stars/Leonardo-Garzon-1995)
 
 <div align="center">
