@@ -43,11 +43,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo-Garzon-1995&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo-Garzon-1995&theme=nord_bright" />
   </picture>
+  
+    
 </div>
+
 
 <img src="https://github.com/Leonardo-Garzon-1995/Leonardo-Garzon-1995/blob/main/my%20octocat.png" width="300"/>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Garzon-1995)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 
