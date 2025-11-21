@@ -43,8 +43,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo-Garzon-1995&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo-Garzon-1995&theme=nord_bright" />
   </picture>
-  
-    
 </div>
 
 
