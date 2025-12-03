@@ -19,7 +19,6 @@
   
 </div>
 
-
 <div align="center">
   <picture style="display: block;">
     <source
