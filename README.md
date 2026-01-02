@@ -1,7 +1,6 @@
 # Hi, I'm Leonardo
 
 
-  
   <!-- Top language (manually added) -->
 ![Top Language: JavaScript](https://img.shields.io/badge/Top%20Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -16,7 +15,6 @@
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" />
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
   <img align="center" src="mongo.gif" width="110"/>
-  
 </div>
 
 <div align="center">
