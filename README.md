@@ -42,7 +42,6 @@
   </picture>
 </div>
 
-
 <img src="https://github.com/Leonardo-Garzon-1995/Leonardo-Garzon-1995/blob/main/my%20octocat.png" width="300"/>
 
 
