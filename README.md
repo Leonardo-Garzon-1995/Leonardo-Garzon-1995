@@ -42,7 +42,7 @@
   </picture>
 </div>
 
-![GitPulse Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/<username>)
+![GitPulse Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Leonardo-Garzon-1995)
 
 <img src="https://github.com/Leonardo-Garzon-1995/Leonardo-Garzon-1995/blob/main/my%20octocat.png" width="300"/>
 
